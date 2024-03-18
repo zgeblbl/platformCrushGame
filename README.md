@@ -6,8 +6,7 @@ Welcome to the Platform Crush game repository! This project is a Unity made plat
 
 ## Gameplay
 
-
-
+https://github.com/zgeblbl/platformCrushGame/assets/117914215/c25b1c1c-24c1-41b5-bc39-fea322ea4d75
 
 ## Features
 
