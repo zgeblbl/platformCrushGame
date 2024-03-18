@@ -24,4 +24,4 @@ https://github.com/zgeblbl/platformCrushGame/assets/117914215/c25b1c1c-24c1-41b5
 
 
 ### Game Completed Scene
-- ![image](https://github.com/zgeblbl/platformCrushGame/assets/117914215/d8f695b4-1cef-4ad0-bb08-9ee959b9c375)
+ ![image](https://github.com/zgeblbl/platformCrushGame/assets/117914215/d8f695b4-1cef-4ad0-bb08-9ee959b9c375)
